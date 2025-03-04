@@ -1,16 +1,18 @@
-# Robust Python Reading
+# robustpython-reading
 
-ロバストPython読書会の資料
+ロバスト Python 読書会の資料
 
 ## 書籍情報
 
-『ロバストPython』（Patrick Viafore　著、鈴木 駿　監訳、長尾 高弘　訳、オライリー・ジャパン）
+『ロバスト Python ―クリーンで保守しやすいコードを書く』
+Patrick Viafore 　著、鈴木 駿　監訳、長尾 高弘　訳、オライリー・ジャパン
 https://www.oreilly.co.jp/books/9784814400171/
 
-## 実行環境
+## 環境情報
 
-```
-$ python -V
+- OS：Windows 11
+- IDE：Visual Studio Code
 
-Python 3.12.5
+```bash
+python --version # Python 3.12.5
 ```
